@@ -5,4 +5,6 @@ logo da loja:
 produtos da loja:
 Vendemos roupas personalizadas de ótima qualidade de crianças e adultos:
 jaquetas;
-camisetas 
+camisetas; 
+calças;
+calçados
