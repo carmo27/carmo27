@@ -20,3 +20,5 @@ calçados
 redes sociais:
 Venha conferir nossos produtos no instagram @rc roupas e acessórios:
 Caso tenha alguma dúvida ligue
+(41) 9787-8768
+Local da loja:
