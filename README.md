@@ -6,7 +6,7 @@ logo da loja:
 
 produtos da loja:
 Vendemos roupas personalizadas de ótima qualidade de crianças e adultos:
-jaquetas,
+jaquetas, 
 camisetas,
 calças,
 calçados
@@ -18,3 +18,5 @@ calçados
 ![image](https://user-images.githubusercontent.com/113630328/194384337-f668fa1b-a779-4f08-8206-89247270b602.png)
 
 redes sociais:
+Venha conferir nossos produtos no instagram @rc roupas e acessórios:
+Caso tenha alguma dúvida ligue
