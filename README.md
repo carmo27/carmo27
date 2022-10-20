@@ -17,6 +17,7 @@ calçados
 ![image](https://user-images.githubusercontent.com/113630328/194384304-23a13e29-f728-404c-8c64-8cb7762b0393.png)
 ![image](https://user-images.githubusercontent.com/113630328/194384337-f668fa1b-a779-4f08-8206-89247270b602.png)
 ![image](https://user-images.githubusercontent.com/113630328/197025080-16f71f34-4736-4dea-bc99-0e7ccdc75499.png)
+![image](https://user-images.githubusercontent.com/113630328/197032180-fc09dbaf-c27c-44d2-b1c0-6ffbe24350c1.png)
 
 redes sociais:
 Venha conferir nossos produtos no instagram @rc roupas e acessórios:
