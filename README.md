@@ -26,4 +26,4 @@ Caso tenha alguma dúvida ligue
 Local da loja:
 Venha conferir nossa loja:
 Rua Carmim de Souza
-Curitiba-Pr
+Curitiba-Pr 348
