@@ -25,5 +25,5 @@ Caso tenha alguma dúvida ligue
 (41) 9787-8768
 Local da loja:
 Venha conferir nossa loja:
+Rua Carmim de Souza
 Curitiba-Pr
-Rua Carmim de Souza 348
