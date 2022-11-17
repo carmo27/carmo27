@@ -1,5 +1,5 @@
 Rc roupas e acessórios:
-Roupas personalizadas de ótima qualidade.Temos roupas de crianças e aadultos e fazemos ofertas com até 20% dedesconto.
+Roupas personalizadas de ótima qualidade.Temos roupas de crianças e aadultos e fazemos ofertas com até 20% de desconto.
 logo da loja:
 
 ![image](https://user-images.githubusercontent.com/113630328/194382460-303908f8-c4a5-4c9a-a17a-d23264ce98ac.png)
@@ -25,7 +25,7 @@ Venha conferir nossos produtos no instagram @rc roupas e acessórios:
 Caso tenha alguma dúvida ligue
 (41) 9787-8768
 Local da loja:
-Venha conferir nossa loja:
+Venha conferir nossa loja:Usando as tags <
 Rua Carmim de Souza
 Curitiba-Pr 348
 
