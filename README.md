@@ -7,13 +7,13 @@ logo da loja:
 produtos da loja:
 Vendemos roupas personalizadas de ótima qualidade de crianças e adultos:
 jaquetas, 
-camisetas,
+camisetas,da loja:
 calças,
 calçados,
 Vestidos etc.
 
 Peços da loja:
-Jaquetas R$ 150,00
+Jaquetas R$ 150,00da loja:
 Camisetas R$ 30,00 a R$ 50,00
 Calças R$ 50.00 a R$80,00
 Calçados
