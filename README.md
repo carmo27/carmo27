@@ -30,4 +30,5 @@ Rua Carmim de Souza
 Curitiba-Pr 348
 
 
+
 ![qrcode_github com](https://user-images.githubusercontent.com/113630328/202516047-9ad3e1fd-9120-4f56-9ead-5800793d424e.png)
