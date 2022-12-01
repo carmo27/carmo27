@@ -13,8 +13,8 @@ calçados,
 Vestidos etc.
 
 Peços da loja:
-Jaquetas
-Camisetas
+Jaquetas R$ 150,00
+Camisetas R$ 30,00 a R$ 50,00
 Calças
 Calçados
 vestidos
