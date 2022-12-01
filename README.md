@@ -17,9 +17,9 @@ Peços da loja:
 Jaquetas R$ 150,00da loja:
 Camisetas R$ 30,00 a R$ 50,00
 Calças R$ 50.00 a R$80,00
-Calçados
-Blusas
-vestidos
+Calçados R$ 150,00 a R$ 200,00
+Blusas R$ 180,00 a R$ 200,00
+vestidos R$ 300,00 a R$ 200,00
 Bonés
 Sapatos
 Toalhas de banho
